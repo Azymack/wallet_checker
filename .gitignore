@@ -1,0 +1,6 @@
+const.js
+*.json 
+*.csv
+*.xlsx
+node_modules
+!package.json

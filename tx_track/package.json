@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tonclient/core": "^1.30.0",
+    "axios": "^1.8.4",
+    "ethers": "^6.13.5",
+    "fs": "^0.0.1-security"
+  }
+}
